@@ -1,0 +1,29 @@
+{
+  "name": "_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/noto-sans-thai": "^5.3.0",
+    "@fontsource/ibm-plex-sans-thai": "^5.3.0",
+    "blueimp-md5": "^2.19.0",
+    "cronstrue": "^2.59.0",
+    "diff": "^5.2.2",
+    "dompurify": "^3.4.17",
+    "js-beautify": "^1.15.4",
+    "js-yaml": "^4.3.2",
+    "jsqr": "^1.4.0",
+    "jszip": "^3.10.2",
+    "marked": "^12.0.2",
+    "pdfjs-dist": "^4.10.38",
+    "qrcode-generator": "^1.5.2",
+    "sql-formatter": "^15.9.0"
+  }
+}
